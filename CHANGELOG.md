@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.0.1]
+
+### Fixed
+
+- A misleading message indicating that the teams were up to date, when this tool has nothing to do with teams, has been
+  changed to "roster is up to date".
 
 ## [1.0.0]
 
